@@ -16,6 +16,42 @@ var dogs = [{
   stage1: "Woff",
   stage2: "Grrrrr",
   img: "https://static-s.aa-cdn.net/img/ios/1034197315/98546f507caa5a015484f78d8c8b6ea1"
+}, {
+  id: 4,
+  count: 0,
+  stage1: "Woff",
+  stage2: "Grrrrr",
+  img: "https://images-na.ssl-images-amazon.com/images/I/61AT2giKTVL._SL256_.jpg"
+}, {
+  id: 5,
+  count: 0,
+  stage1: "Woff",
+  stage2: "Grrrrr",
+  img: "http://myhswm.org/images/sized/images/animals/annabelle-256x256.jpg"
+}, {
+  id: 6,
+  count: 0,
+  stage1: "Woff",
+  stage2: "Grrrrr",
+  img: "http://myhswm.org/images/sized/images/animals/Norisadog_-_Copy-256x256.jpg"
+}, {
+  id: 7,
+  count: 0,
+  stage1: "Woff",
+  stage2: "Grrrrr",
+  img: "https://pbs.twimg.com/profile_images/707293435011575808/P_0lUm1R.jpg"
+}, {
+  id: 8,
+  count: 0,
+  stage1: "Woff",
+  stage2: "Grrrrr",
+  img: "https://is4-ssl.mzstatic.com/image/thumb/Purple7/v4/c3/93/8b/c3938bca-5695-276e-57ed-8bab9454f0fe/source/256x256bb.jpg"
+}, {
+  id: 9,
+  count: 0,
+  stage1: "Woff",
+  stage2: "Grrrrr",
+  img: "https://is1-ssl.mzstatic.com/image/thumb/Purple91/v4/21/d2/b3/21d2b3b7-349e-a85d-fc25-3b7697bb5f74/source/256x256bb.jpg"
 }]
 
 
